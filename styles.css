@@ -6,16 +6,17 @@ body {
 
 h1 {
     color: white;
-    margin-top: 5%;
-    margin-left: 15%;
+    margin: 5% 17%;
 }
 
 .substr {
     margin-left: 27%;
+    margin-right: 27%;
 }
 
 .name{
-    margin-left: 5%;
+    margin-left: 4%;
+    margin-right: 4%;
 }
 
 img {
