@@ -1,0 +1,37 @@
+body {
+    background-color: #5D5656;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    color: white;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+
+.substr {
+    margin-left: 180px;
+}
+
+.name{
+    margin-left: 30px;
+}
+
+img {
+    width: 200px;
+    margin: 0 0;
+}
+
+.wide {
+    width: 70%;
+    margin: 10px 15%;
+}
+
+.first {
+    margin-left: 5%;
+}
+
+.last {
+    margin-right: 5%;
+}
